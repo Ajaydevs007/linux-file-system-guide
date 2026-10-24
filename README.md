@@ -596,5 +596,13 @@ This design makes Linux powerful and flexible.
 
 # Conclusion
 
+Knowing where Linux stores configuration, logs, user files, device information, and runtime data makes it easier to navigate a system and investigate its behavior. Directory details can vary across distributions and versions, so treat examples as common conventions rather than universal guarantees.
+
+## Related Cybersecurity Learning Repositories
+
+- [Main GitHub profile](https://github.com/Ajaydevs007)
+- [SOC Analyst Journey](https://github.com/Ajaydevs007/soc-analyst-journey) — SOC investigations, Windows telemetry, SIEM, and detection notes
+- [VAPT & Hack The Box walkthroughs](https://github.com/Ajaydevs007/VAPT) — authorized offensive-security labs
+- [Networking Notes](https://github.com/Ajaydevs007/networking-notes) — protocols, services, and network fundamentals
 
 `Linux` `LinuxFileSystem` `LinuxForBeginners` `LinuxCommands` `OperatingSystems` `OpenSource`
